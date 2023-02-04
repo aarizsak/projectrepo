@@ -1,0 +1,6 @@
+a new files created
+<<<<<<< HEAD
+some new lines created to see conflit without taking code from master
+=======
+some new lines added to see conflict
+>>>>>>> 791dfad7f0019829dfea4aeaa9fd5b2bdc48daff
